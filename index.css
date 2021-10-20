@@ -1,0 +1,6 @@
+#article-container figure.highlight .highlight-tools .code-lang {
+  left: 50% !important;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  font-size: 0.7rem;
+}
